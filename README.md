@@ -19,6 +19,13 @@ Codex-native recovery of Raj's super skills stack.
 - `claude-blog-codex`
 - `sales-pipeline-codex`
 - `auto-research-loop`
+- `hermes-vps-foundation`
+- `hermes-discord-gateway`
+- `hermes-curator`
+- `hermes-automation-backups`
+- `hermes-kanban-orchestration`
+- `hermes-holographic-memory`
+- `hermes-mcp-backend`
 
 ## Install Into Codex
 
