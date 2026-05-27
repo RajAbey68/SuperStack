@@ -4,7 +4,7 @@ Codex-native recovery of Raj's super skills stack.
 
 ## What This Contains
 
-`super-skills/` contains 12 focused Codex skills distilled from the requested Claude Code superstack:
+`super-skills/` contains focused Codex skills distilled from the requested Claude Code superstack and added research workflows:
 
 - `superpowers-codex`
 - `karpathy-coding-discipline`
@@ -18,6 +18,7 @@ Codex-native recovery of Raj's super skills stack.
 - `marketing-growth-codex`
 - `claude-blog-codex`
 - `sales-pipeline-codex`
+- `auto-research-loop`
 
 ## Install Into Codex
 
