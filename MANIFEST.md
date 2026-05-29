@@ -22,6 +22,7 @@ SuperStack is a Git-backed source of truth for Raj's Codex skills.
 - `plugin-research-workflow` - combine account-backed connectors and research into structured outputs.
 - `automation-factory` - convert repeated useful workflows into scheduled automations.
 - `chronicle-context` - privacy-aware use of live/recent screen context.
+- `superstack-skill-auditor` - audit, prune, merge, and improve SuperStack skills.
 
 ## Research
 
@@ -53,6 +54,7 @@ SuperStack is a Git-backed source of truth for Raj's Codex skills.
 - Every skill folder must contain `SKILL.md`.
 - Keep `SKILL.md` concise and action-oriented.
 - Install/update local global skills with `scripts/sync-skills.sh`.
+- Audit pack health with `scripts/audit-skills.sh`.
 - Commit repo changes before relying on them as the source of truth.
 - Prefer adding a new skill only for a repeatable workflow with clear triggers.
 - Prune or merge skills that do not trigger naturally after real use.

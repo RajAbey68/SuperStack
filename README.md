@@ -33,6 +33,7 @@ Codex-native recovery of Raj's super skills stack.
 - `automation-factory`
 - `visual-verification`
 - `chronicle-context`
+- `superstack-skill-auditor`
 
 See [MANIFEST.md](MANIFEST.md) for the grouped skill catalogue.
 
@@ -45,6 +46,14 @@ scripts/sync-skills.sh
 ```
 
 Start a fresh Codex session after copying so the skills are discovered.
+
+## Audit Skills
+
+Run a quick structural audit:
+
+```bash
+scripts/audit-skills.sh
+```
 
 ## Related Local Project Folders
 
