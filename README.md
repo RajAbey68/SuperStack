@@ -26,6 +26,13 @@ Codex-native recovery of Raj's super skills stack.
 - `hermes-kanban-orchestration`
 - `hermes-holographic-memory`
 - `hermes-mcp-backend`
+- `codex-project-hygiene`
+- `workflow-to-skill`
+- `artifact-pipeline`
+- `plugin-research-workflow`
+- `automation-factory`
+- `visual-verification`
+- `chronicle-context`
 
 ## Install Into Codex
 
