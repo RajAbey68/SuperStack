@@ -34,13 +34,14 @@ Codex-native recovery of Raj's super skills stack.
 - `visual-verification`
 - `chronicle-context`
 
+See [MANIFEST.md](MANIFEST.md) for the grouped skill catalogue.
+
 ## Install Into Codex
 
-Copy the skill folders into your user skills directory:
+Sync the skill folders into your user skills directory:
 
 ```bash
-mkdir -p ~/.codex/skills
-cp -R super-skills/* ~/.codex/skills/
+scripts/sync-skills.sh
 ```
 
 Start a fresh Codex session after copying so the skills are discovered.
