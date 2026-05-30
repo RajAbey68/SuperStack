@@ -34,6 +34,14 @@ Codex-native recovery of Raj's super skills stack.
 - `visual-verification`
 - `chronicle-context`
 - `superstack-skill-auditor`
+- `youtube-transcript-researcher`
+- `readwise-content-miner`
+- `excalidraw-content-diagrams`
+- `paper-canvas-diagrams`
+- `motion-overlay-studio`
+- `gen-media-miniapp`
+- `brand-deal-manager`
+- `buffer-idea-publisher`
 
 See [MANIFEST.md](MANIFEST.md) for the grouped skill catalogue.
 

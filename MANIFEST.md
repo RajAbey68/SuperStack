@@ -48,6 +48,17 @@ SuperStack is a Git-backed source of truth for Raj's Codex skills.
 - `claude-blog-codex` - blog strategy, briefs, writing, audits, repurposing, fact-checking.
 - `sales-pipeline-codex` - pipeline, discovery, follow-up, forecasting, competitive intel.
 
+## Creator Marketing
+
+- `youtube-transcript-researcher` - ground scripts, hooks, and explanations in YouTube transcripts.
+- `readwise-content-miner` - mine Readwise/Reader saves for source-linked content ideas.
+- `excalidraw-content-diagrams` - create low-text explainer diagrams and visual outlines.
+- `paper-canvas-diagrams` - create polished Paper/Figma-like animated canvases and design boards.
+- `motion-overlay-studio` - create Remotion/Hyperframes overlays, demos, and launch graphics.
+- `gen-media-miniapp` - design shared human/agent media generation mini-app workflows.
+- `brand-deal-manager` - triage sponsorship email, research fit, and suggest calendar follow-up.
+- `buffer-idea-publisher` - push curated content ideas into Buffer/social scheduler queues.
+
 ## Maintenance Rules
 
 - Keep one folder per skill under `super-skills/`.
