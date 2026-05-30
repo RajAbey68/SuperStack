@@ -10,7 +10,7 @@ Use this to ground content work in real creator examples instead of generic mode
 ## Workflow
 
 1. Identify the target creator, channel, video, topic, or style reference.
-2. Fetch or ask for transcripts using available tools or user-provided transcript text.
+2. Fetch transcripts with Supadata MCP when available; otherwise use another transcript tool or user-provided transcript text.
 3. Compare multiple videos when the user asks for voice, hook, or format patterns.
 4. Extract reusable patterns:
    - Opening hook.
@@ -38,6 +38,7 @@ Use this to ground content work in real creator examples instead of generic mode
 - Keep direct transcript quotes short.
 - Preserve source links when available.
 - If transcripts are unavailable, say so and switch to title/description/comment/metadata analysis if useful.
+- Use `supadata-mcp-research` when transcript extraction, web scraping, or multi-platform social/video data is needed.
 
 ## Source Notes
 

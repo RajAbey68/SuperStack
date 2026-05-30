@@ -42,6 +42,7 @@ Codex-native recovery of Raj's super skills stack.
 - `gen-media-miniapp`
 - `brand-deal-manager`
 - `buffer-idea-publisher`
+- `supadata-mcp-research`
 
 See [MANIFEST.md](MANIFEST.md) for the grouped skill catalogue.
 

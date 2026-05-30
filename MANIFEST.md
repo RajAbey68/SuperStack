@@ -28,6 +28,7 @@ SuperStack is a Git-backed source of truth for Raj's Codex skills.
 
 - `auto-research-loop` - measurable autonomous experiment loops with protected evaluators.
 - `obsidian-second-brain` - Obsidian notes, wikilinks, callouts, durable research capture.
+- `supadata-mcp-research` - transcript extraction and public web/video/social scraping through Supadata MCP.
 
 ## Hermes Agent
 
